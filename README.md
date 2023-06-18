@@ -1,4 +1,1 @@
-# TicTacToeGame
-# TicTacToeGame
-# TicTacToe
-# TicTacToe
+TicTacToe is two player game which is played with help of 3 * 3 matrix.Player make mark on empty boxes of matrix.Winner is decided on the basis of any player can mark in straight line with his symbol wny direction vertically,horrizontally,diagonally
